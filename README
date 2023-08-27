@@ -1,0 +1,12 @@
+This is an implementation of the 2048 game in which the player aims to combine blocks
+until getting a 2048 block or higher ones!
+
+All the source code is contained in "main.py"
+
+For setting up the game, you must install the libraries listed at "requirements.txt": pygame at the moment
+Next you must unzip "Anton.zip" to get "Anton-Regular.ttf" which the game uses to render text.
+
+That's all. Run "python main.py" and get the highest score! ;)
+
+You can also run "python main.py h w gn" where "h" will be the board's height, "w" the board's width
+and "gn" the number of blocks generated per movement.
